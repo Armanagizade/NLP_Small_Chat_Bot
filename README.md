@@ -16,3 +16,5 @@ Responses are generated based on user input using a trained neural network
 
 Requirements
 
+
+Data Set : https://data-flair.training/blogs/download-python-chatbot-data-project-source-code/
